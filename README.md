@@ -9,6 +9,10 @@ This project is a web application built using Flask that allows residents of UME
 - Data fields include resident's name, room number, problem description, and area/unit/room
 - Automatic creation of new CSV files based on the current month and year
 
+## Screenshot
+
+![Maintenance Form](image.png)
+
 ## Prerequisites
 
 - Python 3.6 or higher
